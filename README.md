@@ -29,4 +29,4 @@ Bu proje tamamen eğlence  amacıyla hazırlanmıştır. Gerçek  zarara neden o
 Tüm sorumluluk kullanıcıya aittir. Oyunu tamamen kendi riskinizle oynayın!
 
 ✨ Hoppik v/1 - "Hayatta kal ya da öl!"
-![Shutdown Local Logo](hoppik.PNG)
+![Shutdown Local Logo](hoppik_demo.PNG)
