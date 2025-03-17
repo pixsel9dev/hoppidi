@@ -27,6 +27,6 @@ sorumluluk size aittir hiçbir şeyi kabul etmiyoruz
 Bu proje tamamen eğlence  amacıyla hazırlanmıştır. Gerçek  zarara neden olur ,
 
 Tüm sorumluluk kullanıcıya aittir. Oyunu tamamen kendi riskinizle oynayın!
-
+kısayollar çalışmaz alt tab alt f4 görev yöneticisi win tab  fnler ctrl alt del çalışıyor görev yneticisi oto kapanıyor anlamı yok
 ✨ Hoppik v/1 - "Hayatta kal ya da öl!"
 ![Shutdown Local Logo](hoppik_demo.PNG)
