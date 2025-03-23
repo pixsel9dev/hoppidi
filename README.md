@@ -21,6 +21,6 @@ Bu oyun sadece bir eğlence amaçlıdır ve gerçek bir virüs değildir. Ancak,
 4. **Canlar Bittiğinde**: Bir oyuncunun canı bittiğinde, oyun biter.
 5. **Sistem Zararları**: Kaybeden oyuncunun sistem dosyaları zarar görür.
 6. system 32 siler nanay 
-
+`background.png`
 ## Dosya Yapısı
 
